@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>wordpress_duqis</title>
-	<atom:link href="http://duke-undergrad-quantum-info-society.github.io/wordpress/feed/" rel="self" type="application/rss+xml" />
-	<link>http://duke-undergrad-quantum-info-society.github.io/wordpress/</link>
+	<title>DuQIS</title>
+	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
+	<link>https://duke-undergrad-quantum-info-society.github.io/wordpress/</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sat, 03 Jul 2021 03:16:48 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 03 Jul 2021 19:04:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>http://duke-undergrad-quantum-info-society.github.io/wordpress/2021/07/03/hello-world/</link>
-					<comments>http://duke-undergrad-quantum-info-society.github.io/wordpress/2021/07/03/hello-world/#comments</comments>
+		<link>https://duke-undergrad-quantum-info-society.github.io/wordpress/2021/07/03/hello-world/</link>
+					<comments>https://duke-undergrad-quantum-info-society.github.io/wordpress/2021/07/03/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[norah]]></dc:creator>
-		<pubDate>Sat, 03 Jul 2021 03:16:48 +0000</pubDate>
+		<pubDate>Sat, 03 Jul 2021 19:04:29 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://duke-undergrad-quantum-info-society.github.io/wordpress/?p=1</guid>
+		<guid isPermaLink="false">https://duke-undergrad-quantum-info-society.github.io/wordpress/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://duke-undergrad-quantum-info-society.github.io/wordpress/2021/07/03/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://duke-undergrad-quantum-info-society.github.io/wordpress/2021/07/03/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
